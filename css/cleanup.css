@@ -1,1 +1,25 @@
-/* write your override styles here */
+*{
+    background: red;
+    padding: auto;  
+}
+body{
+    display: inline; 
+}
+#wall{
+    position: relative;
+}
+#tag-2{
+    display: flex;
+    position: absolute;
+    top: 50px;
+}
+#tag-2{
+    display: flex;
+    position: absolute;
+    top: 50%;
+}
+#taag-4{
+    display: flex;
+    position: absolute;
+    right: 50px;
+}
